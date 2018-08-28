@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ShardAllocator/shard-allocator.iml" filepath="$PROJECT_DIR$/../ShardAllocator/shard-allocator.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-rest-play.iml" filepath="$PROJECT_DIR$/spring-rest-play.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-rest-play_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-rest-play_main.iml" group="spring-rest-play" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-rest-play_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-rest-play_test.iml" group="spring-rest-play" />
